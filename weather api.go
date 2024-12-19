@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	apiKey  = "eb544f912c613bb4f0b7d9d5da2b189e"
+	apiKey  = "eb544f912c613bb4f0b7d9d5da2b189e" //(change your key here)//
 	baseURL = "http://api.openweathermap.org/data/2.5/weather"
 )
 
