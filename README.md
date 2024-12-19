@@ -16,4 +16,4 @@ How to run:
 3)   now paste this code in it and press ctrl + o , then press enter , then press ctrl + x
 4)   open terminal and write command ( go run (yourfilename).go)
 5)   you will see (Weather app is running on http://localhost:8080)
-6)   now paste this url in chrome (http://localhost:8080)
+6)   now paste this url in chrome (http://localhost:8080/weather?city=(yourcity name)
